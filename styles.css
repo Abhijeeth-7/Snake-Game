@@ -1,0 +1,14 @@
+.container {
+  background-color: #01060c;
+}
+
+.game-canvas {
+  background-color: black;
+  box-shadow: 0px 0px 10px 5px rgba(0, 128, 0, 0.74);
+}
+
+.score {
+  color: white;
+  font-size: 20px;
+  text-shadow: 0px 0px 10px 2px yellow, 2px 2px 10px purple;
+}

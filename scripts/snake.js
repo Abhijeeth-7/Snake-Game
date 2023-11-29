@@ -21,7 +21,7 @@ export class Snake {
     this.body = [{ Xpos: this.Xpos, Ypos: this.Ypos }];
     this.head = this.body[0];
 
-    this.eatingAudio = new Audio("../assets/audio/eat.m4a");
+    this.eatingAudio = new Audio("./assets/audio/eat.m4a");
   }
 
   navigate(keyCode) {

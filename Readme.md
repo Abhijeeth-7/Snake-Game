@@ -1,9 +1,9 @@
 How to Run in local machine
 
 - We need "live server" simulator to run this.
-- If you are using "VSCode", then donwload live server extension and run it
+- If you are using "VSCode", then download live server extension and run it
 
-                OR
+  OR
 
 - We Can use npm to download live-server
   1. open 'cmd' in this directory
